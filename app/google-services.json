@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439419773405",
+    "project_id": "kotlinmsg-c8d6d",
+    "storage_bucket": "kotlinmsg-c8d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439419773405:android:255e91527d17684d0e9634",
+        "android_client_info": {
+          "package_name": "com.example.msgkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439419773405-pat262cusac1h20dqa6b1cgogt0finrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQiiU1-p-zlcw_kdLMnzQgcvcql7ZDil4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439419773405-pat262cusac1h20dqa6b1cgogt0finrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
